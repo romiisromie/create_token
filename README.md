@@ -1,13 +1,13 @@
 # Create Token Tests
 
-Тесты смарт-контракта Solana (Anchor) для Astana Hub Education, задание №1.
+Solana (Anchor) smart contract tests for Astana Hub Education, Assignment #1.
 
-## Описание
+## Description
 
-В этом проекте написаны тесты для функций смарт-контракта:
+This project contains tests for the following smart contract functions:
 
-- `create_token_account()` – создание токен-аккаунта для пользователя  
-- `mint_tokens()` – выпуск токенов на аккаунт  
-- `transfer_tokens()` – перевод токенов между аккаунтами  
+- `create_token_account()` – creating a token account for a user  
+- `mint_tokens()` – minting tokens to an account  
+- `transfer_tokens()` – transferring tokens between accounts  
 
-Тесты написаны на TypeScript с использованием **Anchor framework**.
+The tests are written in TypeScript using the **Anchor framework**.
